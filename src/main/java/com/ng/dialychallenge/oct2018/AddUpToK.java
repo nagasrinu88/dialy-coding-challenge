@@ -1,7 +1,7 @@
 /*
  * This Problem was asked by Google
  */
-package com.ng.dialychallange.oct2018;
+package com.ng.dialychallenge.oct2018;
 
 import java.util.Arrays;
 

@@ -3,9 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.ng.dialychallange.oct2018;
+package com.ng.dialychallenge.oct2018;
 
-import com.ng.dialychallange.oct2018.AddUpToK;
+import com.ng.dialychallenge.oct2018.AddUpToK;
 import org.junit.Assert;
 import org.junit.Test;
 
